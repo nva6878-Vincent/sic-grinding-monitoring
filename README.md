@@ -32,7 +32,7 @@ See [`SUMMER_ROADMAP.md`](SUMMER_ROADMAP.md) for the timeline.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/sic-grinding-monitoring.git
+git clone https://github.com/nva6878-Vincent/sic-grinding-monitoring.git
 cd sic-grinding-monitoring
 pip install -r requirements.txt
 python 01_lempel_ziv_stability/lzc_stability.py
